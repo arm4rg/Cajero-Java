@@ -13,10 +13,20 @@ Este proyecto implementa un sistema de cajero automático utilizando achivos, in
 - JDK instalado.
 - Un entorno de desarrollo integrado (IDE) como Visual Studio, Netbeans, etc.
 
-### Instalación
-1. Copiar esta carpeta en la máquina a ejecutar
-2. Abre el proyecto en tu IDE preferido.
-3. Presionar clic derecho "Run Java"
+### Ejecución
+1. Clona este repositorio 
+    ```bash
+    git clone https://github.com/arm4rg/Cajero-Java.git
+    cd Cajero-Java
+    ```
+2. Compila el archivo `App.java`
+    ```bash
+    javac App.java
+    ```
+3. Ejecuta el programa:
+    ```bash
+    App.java
+    ```
 
 ### Uso
 1. Ejecuta el programa.
